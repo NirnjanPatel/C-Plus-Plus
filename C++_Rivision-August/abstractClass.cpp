@@ -1,4 +1,4 @@
-// Abstract class
+// Abstract classs
 #include <iostream>
 using namespace std;
 class Parent
